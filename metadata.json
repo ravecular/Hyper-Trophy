@@ -1,0 +1,6 @@
+{
+  "name": "Evolene Store Indonesia - Suplemen Fitness & Nutrisi Resmi",
+  "description": "Toko resmi suplemen Evolene (Evowhey, Evomass, Crevolene, Prevo) dengan diskon spesial setiap produk dan pemesanan praktis via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
