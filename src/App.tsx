@@ -216,7 +216,7 @@ export default function App() {
               Koleksi Lengkap Suplemen Evolene Terdiskon
             </h2>
             <p className="text-xs sm:text-sm text-stone-500 mt-1 max-w-xl">
-              Evowhey, Evomass, Crevolene, dan Prevo original dengan diskon spesial 20% - 25% di setiap produk. Order instan langsung ke WhatsApp admin resmi.
+              Evowhey, Evomass, Crevolene, Prevo, Casein, Glutamine, EAA, HMB, serta snack & gym gear Evolene dengan diskon spesial 20% - 25% di setiap produk.
             </p>
           </div>
 
@@ -228,7 +228,7 @@ export default function App() {
                 type="search"
                 value={searchQuery}
                 onChange={(e) => setSearchQuery(e.target.value)}
-                placeholder="Cari Evowhey, Evomass, Prevo..."
+                placeholder="Cari Evowhey, Crevolene, Evomass, Prevo, Casein..."
                 className="w-full pl-10 pr-4 py-2 bg-white border border-stone-300 rounded-xl text-xs placeholder:text-stone-400 focus:outline-none focus:ring-2 focus:ring-red-600 focus:border-red-600 shadow-xs"
               />
               {searchQuery && (
@@ -275,7 +275,7 @@ export default function App() {
               Produk Evolene Tidak Ditemukan
             </h3>
             <p className="text-xs text-stone-500 max-w-sm mx-auto">
-              Tidak ada produk Evolene yang cocok dengan pencarian "{searchQuery}". Silakan coba kata kunci lain seperti Evowhey atau Crevolene.
+              Tidak ada produk Evolene yang cocok dengan pencarian "{searchQuery}". Silakan coba kata kunci lain seperti Evobar, Evoslim, atau Shaker.
             </p>
             <button
               type="button"
@@ -354,7 +354,7 @@ export default function App() {
                 </div>
                 <h4 className="font-bold text-sm text-white">Pilih Produk Evolene</h4>
                 <p className="text-xs text-stone-400">
-                  Pilih Evowhey, Evomass, Crevolene atau Prevo dengan potongan diskon langsung.
+                  Pilih Evobar, Evoslim, Evodrain, Shaker, atau Gym Gear dengan potongan diskon langsung.
                 </p>
               </div>
 
@@ -407,8 +407,8 @@ export default function App() {
           <div className="max-w-3xl mx-auto space-y-3">
             {[
               {
-                q: 'Apakah semua suplemen Evolene di sini dijamin 100% Original dan bergaransi?',
-                a: 'Ya, seluruh produk Evolene (Evowhey, Evomass, Crevolene, Prevo, Evoboost, dll.) dijamin 100% Asli langsung dari pabrik resmi Evolene Indonesia dengan nomor BPOM aktif dan sertifikat halal MUI.'
+                q: 'Apakah semua suplemen dan gym gear Evolene di sini dijamin 100% Original dan bergaransi?',
+                a: 'Ya, seluruh produk suplemen diet, snack sehat, dan gym gear Evolene (Evobar, Evoslim, Evodrain, Evoshield, Evoglow, Lifting Gear, dll.) dijamin 100% Asli langsung dari pabrik resmi Evolene Indonesia dengan nomor BPOM aktif dan sertifikat halal MUI.'
               },
               {
                 q: 'Apa itu sertifikasi Labdoor USA yang dimiliki Evolene?',

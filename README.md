@@ -1,20 +1,34 @@
 # Hyper Trophy — Toko Suplemen Fitness & Evolene Resmi
 
-Website e-commerce modern penjualan produk suplemen kebugaran dan nutrisi resmi **Evolene** di Indonesia (*Evowhey, Evomass, Crevolene, Prevo, Evogold, Evoboost, Evobcaa, Evogreen*). Dilengkapi dengan kalkulasi diskon otomatis pada setiap produk, sistem voucher promo, dan integrasi pemesanan langsung melalui WhatsApp.
+Website e-commerce modern penjualan suplemen diet, snack protein, kesehatan, dan gym gear resmi **Evolene** di Indonesia (*Evobar, Evoslim, Evodrain, Evoshield, Evoglow, Shaker Pro, dan Lifting Gear*). Dilengkapi dengan kalkulasi diskon otomatis pada setiap produk, sistem voucher promo, dan integrasi pemesanan langsung melalui WhatsApp.
 
 ---
 
 ## 🌟 Fitur Utama
 
-1. **Katalog Produk Suplemen Evolene Lengkap:**
-   - Evowhey Protein (25g Protein, 5.2g BCAA, Rendah Lemak)
-   - Evomass High Calorie Mass Gainer (52g Protein, 950 Kalori)
-   - Crevolene Micronized Creatine 100% (5g Kreatin Murni per sajian)
-   - Evolene Prevo Pre-Workout (Beta-Alanine, Citrulline, Kafein)
-   - Evogold Isolate Gold Series (Zero Fat, Zero Sugar, Labdoor Top Rank)
-   - Evoboost Testosterone Booster (Herbal Alami Pasak Bumi, Purwoceng, Tribulus)
-   - Evobcaa Amino Recovery (Rasio 2:1:1 L-Leucine, L-Isoleucine, L-Valine)
-   - Evogreen Plant-Based Protein (100% Vegan Pea & Soy Isolate)
+1. **Katalog Suplemen & Gear Evolene Lengkap (20 Produk):**
+   - **Nutrisi Pembangun Otot (Muscle Building):**
+     - Evolene Evowhey 100% Protein Matrix (25g Protein, 5.2g BCAA, Teruji Labdoor USA)
+     - Evolene Evomass Hardgainer Mass Gainer (52g Protein, 950 Kalori, Bulking Cepat)
+     - Crevolene 100% Micronized Creatine (5g Kreatin 200 Mesh, Pemicu ATP & Tenaga)
+     - Evolene Prevo High-Energy Pre-Workout (Beta-Alanine, Citrulline, Nitric Oxide Pump)
+     - Evolene Hydrolyzed Whey Isolate Gold Series (28g Peptida Mikro Serap 15 Menit)
+     - Evolene Micellar Casein Nighttime Recovery (24g Protein Pelepasan Lambat 8 Jam)
+     - Evolene Pure Micronized L-Glutamine Powder (5000mg Glutamin, Pemulihan Serat Otot)
+     - Evolene EAA Essential Amino Acids Matrix (9 Asam Amino Lengkap + Elektrolit Kelapa)
+     - Evolene HMB Pure Muscle Builder 1000mg (Anti-Katabolik Pelindung Otot Terkuat)
+     - Evolene ZMA Anabolic Night Recovery (Zinc Monomethionine, Magnesium & B6)
+   - **Snack, Diet, Kesehatan & Gym Gear:**
+     - Evolene Evobar High Protein Bar (16g Protein, Rendah Gula, Cokelat Renyah)
+     - Evolene Evoslim Meal Replacement Shake (21g Protein, Kaya Serat, Defisit Kalori)
+     - Evolene Evodrain Thermogenic Fat Burner (L-Carnitine, Green Tea, Cayenne)
+     - Evolene Evoshield Daily Multivitamin & Zinc (26 Vitamin & Mineral Atlet)
+     - Evolene Evoglow Marine Collagen + Glutathione (Regenerasi Sendi & Kulit)
+     - Evolene Pro Stainless Steel Shaker 750ml (Anti Bau, Food Grade 304)
+     - Evolene Neoprene Padded Heavy Duty Lifting Straps (Support Deadlift 350kg)
+     - Evolene Pro Genuine Leather Weightlifting Belt 10mm (Powerlifting Standard)
+     - Evolene Elastic Heavy Duty Wrist Wraps 18" (Stabilitas Bench Press)
+     - Evolene "Transformasi Nyata" Gym Oversized Tee (Katun Combed 24s Breathable)
 
 2. **Diskon Spesial Pada Setiap Produk:**
    - Potongan harga langsung 20% s/d 25% di setiap produk tanpa syarat minimum.

@@ -28,7 +28,7 @@ export const Hero: React.FC<HeroProps> = ({ storeConfig }) => {
             </h1>
 
             <p className="text-base sm:text-lg text-stone-600 leading-relaxed max-w-2xl">
-              Suplemen kebanggaan Indonesia dengan standar internasional. Dapatkan <strong className="text-stone-900 font-semibold">Evowhey, Evomass, Crevolene, hingga Prevo</strong> dengan 
+              Suplemen kebanggaan Indonesia dengan standar internasional. Dapatkan <strong className="text-stone-900 font-semibold">Evowhey, Evomass, Crevolene, Prevo, Hydro Whey, hingga Gym Gear Pro</strong> dengan 
               <strong className="text-red-600 font-semibold"> diskon langsung 20% - 25% di setiap produk</strong>. Pemesanan praktis dan konfirmasi cepat langsung via WhatsApp!
             </p>
 
@@ -66,7 +66,7 @@ export const Hero: React.FC<HeroProps> = ({ storeConfig }) => {
                 <Percent className="w-5 h-5 text-red-600 shrink-0 mt-0.5" />
                 <div>
                   <strong className="block font-semibold text-stone-900">Diskon Tiap Item</strong>
-                  <span>Hemat s/d Rp 112.500</span>
+                  <span>Hemat s/d Rp 105.000</span>
                 </div>
               </div>
               <div className="flex items-start gap-2">
@@ -83,8 +83,8 @@ export const Hero: React.FC<HeroProps> = ({ storeConfig }) => {
           <div className="lg:col-span-5 relative">
             <div className="relative rounded-2xl overflow-hidden shadow-xl border border-stone-800 aspect-[4/3] bg-stone-900">
               <img
-                src="/src/assets/images/evolene_evowhey_protein_1792846433673.jpg"
-                alt="Produk Resmi Evolene Evowhey Protein Indonesia di Hyper Trophy"
+                src="/src/assets/images/evolene_evobar_snack_1793264675818.jpg"
+                alt="Produk Resmi Evolene Evobar dan Suplemen Diet di Hyper Trophy"
                 className="w-full h-full object-cover"
                 loading="eager"
               />

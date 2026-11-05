@@ -1,5 +1,5 @@
 import React from 'react';
-import { ShoppingBag, MessageCircle, Percent, Sparkles, Award } from 'lucide-react';
+import { ShoppingBag, MessageCircle, Sparkles, Award } from 'lucide-react';
 import { StoreConfig } from '../types.ts';
 import { formatRupiah } from '../utils/formatters.ts';
 

@@ -46,13 +46,13 @@ export const Footer: React.FC<FooterProps> = ({ storeConfig }) => {
 
           {/* Quick Links */}
           <div className="space-y-3">
-            <h4 className="text-xs font-bold uppercase tracking-wider text-white">Suplemen Populer Evolene</h4>
+            <h4 className="text-xs font-bold uppercase tracking-wider text-white">Suplemen Pembangun Otot</h4>
             <ul className="text-xs text-stone-400 space-y-2">
-              <li><a href="#katalog" className="hover:text-red-400 transition-colors">Evolene Evowhey (Whey Protein 25g)</a></li>
-              <li><a href="#katalog" className="hover:text-red-400 transition-colors">Evolene Evomass (Mass Gainer 52g)</a></li>
-              <li><a href="#katalog" className="hover:text-red-400 transition-colors">Crevolene (Creatine Monohydrate)</a></li>
-              <li><a href="#katalog" className="hover:text-red-400 transition-colors">Evolene Prevo (Pre-Workout Energy)</a></li>
-              <li><a href="#katalog" className="hover:text-red-400 transition-colors">Evogold Isolate (Zero Fat & Sugar)</a></li>
+              <li><a href="#katalog" className="hover:text-red-400 transition-colors">Evowhey 100% Protein (Labdoor USA)</a></li>
+              <li><a href="#katalog" className="hover:text-red-400 transition-colors">Evomass Gainer (52g Protein & 950 Kkal)</a></li>
+              <li><a href="#katalog" className="hover:text-red-400 transition-colors">Crevolene 100% Micronized Creatine</a></li>
+              <li><a href="#katalog" className="hover:text-red-400 transition-colors">Prevo High-Energy Pre-Workout</a></li>
+              <li><a href="#katalog" className="hover:text-red-400 transition-colors">Hydro Whey Isolate & Casein Recovery</a></li>
             </ul>
           </div>
 
